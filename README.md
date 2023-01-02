@@ -18,3 +18,4 @@ That's all! Don't forget to be a good developer and help people 🙂
 | Challange Name   | Day | Link | Source-Link | Level |
 | --------------   | --- | ---- | ----------- | ----- |
 | Grading Students | 1 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Grading%20Students.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/grading/problem"> Source </a> | Easy |
+| Counting Sort | 2 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Counting%20Sort.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/one-month-preparation-kit-countingsort1/problem"> Source </a> | Easy |
