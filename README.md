@@ -23,5 +23,6 @@ That's all! Don't forget to be a good developer and help people 🙂
 | Hurdle Race | 4 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Hurdle%20Race.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/the-hurdle-race/problem"> Source </a> | Easy |
 | Sock Merchant | 5 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Sock%20Merchant.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/one-month-preparation-kit-sock-merchant/problem"> Source </a> | Easy |
 | Two Cat one Mouse | 6 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Cats%20and%20a%20Mouse%20.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/cats-and-a-mouse/problem"> Source </a> | Easy |
+| Drawing Book | 7 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Drawing%20Book.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/one-month-preparation-kit-drawing-book/problem"> Source </a> | Easy |
 
 
