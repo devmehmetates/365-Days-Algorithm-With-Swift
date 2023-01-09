@@ -25,5 +25,4 @@ That's all! Don't forget to be a good developer and help people 🙂
 | Two Cat one Mouse | 6 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Cats%20and%20a%20Mouse%20.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/cats-and-a-mouse/problem"> Source </a> | Easy |
 | Drawing Book | 7 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Drawing%20Book.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/one-month-preparation-kit-drawing-book/problem"> Source </a> | Easy |
 | Caesar Cipher | 8 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Caesar%20Cipher.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/one-month-preparation-kit-caesar-cipher-1/problem"> Source </a> | Easy |
-
-
+| Breaking the Records | 9 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Breaking%20the%20Records.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem"> Source </a> | Easy |
