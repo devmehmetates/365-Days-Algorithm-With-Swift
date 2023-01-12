@@ -2,6 +2,7 @@ import UIKit
 
 /// URL
 /// https://www.hackerrank.com/challenges/strange-advertising/problem
+///
 func viralAdvertising(n: Int) -> Int {
     var totalLike = 0
     var currentPeople = 5
