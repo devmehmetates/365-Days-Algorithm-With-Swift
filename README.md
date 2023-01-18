@@ -34,4 +34,6 @@ That's all! Don't forget to be a good developer and help people 🙂
 | Sales by Match | 15 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Sales%20by%20Match.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/sock-merchant/problem"> Source </a> | Easy |
 | Find Digits | 16 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Find%20Digits.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/find-digits/problem"> Source </a> | Easy |
 | Electronics Shop | 17 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Electronics%20Shop.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/electronics-shop/problem"> Source </a> | Easy |
+| Angry Professor | 18 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Angry%20Professor.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/angry-professor/problem"> Source </a> | Easy |
+
 
