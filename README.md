@@ -35,5 +35,5 @@ That's all! Don't forget to be a good developer and help people 🙂
 | Find Digits | 16 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Find%20Digits.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/find-digits/problem"> Source </a> | Easy |
 | Electronics Shop | 17 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Electronics%20Shop.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/electronics-shop/problem"> Source </a> | Easy |
 | Angry Professor | 18 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Angry%20Professor.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/angry-professor/problem"> Source </a> | Easy |
-
+| Divisible Sum Pairs | 19 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Divisible%20Sum%20Pairs.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/divisible-sum-pairs/problem"> Source </a> | Easy |
 
