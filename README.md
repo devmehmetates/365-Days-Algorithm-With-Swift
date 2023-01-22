@@ -38,3 +38,6 @@ That's all! Don't forget to be a good developer and help people 🙂
 | Divisible Sum Pairs | 19 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Divisible%20Sum%20Pairs.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/divisible-sum-pairs/problem"> Source </a> | Easy |
 | Jumping on the Clouds: Revisited | 20 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Jumping%20on%20the%20Clouds%20Revisited.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem"> Source </a> | Easy |
 | Beautiful Days at the Movies | 21 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Beautiful%20Days%20at%20the%20Movies.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem"> Source </a> | Easy |
+| Save The Prisoner | 22 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Save%20the%20Prisoner.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/save-the-prisoner/problem"> Source </a> | Easy |
+
+
