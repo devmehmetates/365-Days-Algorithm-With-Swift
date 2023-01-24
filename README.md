@@ -40,5 +40,4 @@ That's all! Don't forget to be a good developer and help people 🙂
 | Beautiful Days at the Movies | 21 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Beautiful%20Days%20at%20the%20Movies.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem"> Source </a> | Easy |
 | Save The Prisoner | 22 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Save%20the%20Prisoner.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/save-the-prisoner/problem"> Source </a> | Easy |
 | Repeated String | 23 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Repeated%20String.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/repeated-string/problem"> Source </a> | Easy |
-
-
+| Repeated String | 24 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Cut%20the%20sticks.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/cut-the-sticks/problem"> Source </a> | Easy |
