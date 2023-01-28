@@ -44,5 +44,5 @@ That's all! Don't forget to be a good developer and help people 🙂
 | Counting Valleys | 25 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Counting%20Valleys.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/counting-valleys/problem"> Source </a> | Easy |
 | CamelCase | 26 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/CamelCase.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/camelcase/problem"> Source </a> | Easy |
 | Apple And Orange | 27 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Apple%20and%20Orange.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/apple-and-orange/problem"> Source </a> | Easy |
-
-
+| Milestone 🌞 |
+| Forming a Magic Square | 28 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Forming%20a%20Magic%20Square.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/magic-square-forming/problem"> Source </a> | Medium |
