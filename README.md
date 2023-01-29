@@ -46,3 +46,4 @@ That's all! Don't forget to be a good developer and help people 🙂
 | Apple And Orange | 27 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Apple%20and%20Orange.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/apple-and-orange/problem"> Source </a> | Easy |
 | Milestone 🌞 |
 | Forming a Magic Square | 28 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Medium/Forming%20a%20Magic%20Square.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/magic-square-forming/problem"> Source </a> | Medium |
+| Encryption | 29 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Medium/Encryption.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/encryption/problem"> Source </a> | Medium |
