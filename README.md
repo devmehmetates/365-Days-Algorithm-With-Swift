@@ -47,3 +47,7 @@ That's all! Don't forget to be a good developer and help people 🙂
 | Milestone 🌞 |
 | Forming a Magic Square | 28 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Medium/Forming%20a%20Magic%20Square.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/magic-square-forming/problem"> Source </a> | Medium |
 | Encryption | 29 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Medium/Encryption.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/encryption/problem"> Source </a> | Medium |
+| Alternating Characters | 30 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Alternating%20Characters.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/alternating-characters/problem"> Source </a> | Easy |
+
+
+
