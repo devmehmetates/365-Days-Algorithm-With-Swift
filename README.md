@@ -54,3 +54,4 @@ That's all! Don't forget to be a good developer and help people 🙂
 | Library Fine | 34 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Library%20Fine.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/library-fine/problem"> Source </a> | Easy |
 | Larrys Array | 35 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Medium/Larry's%20Array.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/larrys-array/problem"> Source </a> | Medium |
 | Sherlock and Squares | 36 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Sherlock%20and%20Squares.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/sherlock-and-squares/problem"> Source </a> | Easy |
+| - | 37 | - | - | - |
