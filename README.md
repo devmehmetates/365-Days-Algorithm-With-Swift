@@ -56,3 +56,4 @@ That's all! Don't forget to be a good developer and help people 🙂
 | Sherlock and Squares | 36 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Sherlock%20and%20Squares.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/sherlock-and-squares/problem"> Source </a> | Easy |
 | - | 37 | - | - | - |
 | - | 38 | - | - | - |
+| - | 39 | - | - | - |
