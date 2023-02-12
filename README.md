@@ -54,9 +54,16 @@ That's all! Don't forget to be a good developer and help people 🙂
 | Library Fine | 34 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Library%20Fine.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/library-fine/problem"> Source </a> | Easy |
 | Larrys Array | 35 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Medium/Larry's%20Array.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/larrys-array/problem"> Source </a> | Medium |
 | Sherlock and Squares | 36 | <a href="https://github.com/devmehmetates/365-Days-Algorithm-With-Swift/blob/main/Easy/Sherlock%20and%20Squares.playground/Contents.swift"> File </a> | <a href="https://www.hackerrank.com/challenges/sherlock-and-squares/problem"> Source </a> | Easy |
-| - | 37 | - | - | - |
-| - | 38 | - | - | - |
-| - | 39 | - | - | - |
-| - | 40 | - | - | - |
-| - | 41 | - | - | - |
-| - | 42 | - | - | - |
+
+### Note!
+Unfortunately, there has been a great disaster in my country. For this reason, I could not achieve the progress I wanted in the following days. I hope everything will be as before as soon as possible.
+
+| -- | Day |
+| -- | --- |
+| 🏴 | 37  |
+| 🏴 | 38  | 
+| 🏴 | 39  | 
+| 🏴 | 40  | 
+| 🏴 | 41  |
+| 🏴 | 42  | 
+| 🏴 | 43  | 
