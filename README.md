@@ -68,3 +68,7 @@ Unfortunately, there has been a great disaster in my country. For this reason, I
 | 🏴 | 42  | 
 | 🏴 | 43  | 
 | 🏴 | 44  | 
+
+### Final
+I thought you might come back for this challenge. But I think it doesn't make much sense to continue this challenge anymore. I hope this series goes smoothly for me next year.
+
